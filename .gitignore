@@ -1,0 +1,6 @@
+models/
+data/raw/
+data/*.npy
+__pycache__/
+.pytest_cache/
+.env
